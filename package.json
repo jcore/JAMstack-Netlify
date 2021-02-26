@@ -1,0 +1,20 @@
+{
+  "name": "eleventy-vue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cross-env ELEVENTY_EXPERIMENTAL=true DEBUG=Eleventy* npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-plugin-vue": "^0.3.1-canary.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
