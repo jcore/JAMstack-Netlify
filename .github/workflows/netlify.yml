@@ -14,9 +14,10 @@ jobs:
         run: |
           npm install
           set ELEVENTY_EXPERIMENTAL=true
+          Debug=Eleventy*
           npx @11ty/eleventy
 
-      - name: Deploy 🚀
+      - name: Deploy to Production Branch 🚀
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           branch: production # The branch the action should deploy to.
