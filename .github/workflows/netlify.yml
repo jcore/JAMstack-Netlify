@@ -7,29 +7,29 @@ jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
-     - name: Checkout
-       uses: actions/checkout@master
-      
-     - name: Build and Deploy
-       uses: JamesIves/github-pages-deploy-action@master
-       env:
-           ACCESS_TOKEN: $
-           BASE_BRANCH: master # The branch the action should deploy from.
-           BRANCH: production # The branch the action should deploy to.
-           FOLDER: _site # The folder the action should deploy.
-           BUILD_SCRIPT: npm install && cross-env ELEVENTY_EXPERIMENTAL=true npx @11ty/eleventy # The build script the action should run prior to deploying.
- 
-     - name: Deploy to Netlify
-       uses: nwtgck/actions-netlify@v1.1
-       with:
-          publish-dir: './_site'
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@master
+        env:
+          ACCESS_TOKEN: $
+          BASE_BRANCH: master # The branch the action should deploy from.
+          BRANCH: production # The branch the action should deploy to.
+          FOLDER: _site # The folder the action should deploy.
+          BUILD_SCRIPT: npm install && cross-env ELEVENTY_EXPERIMENTAL=true npx @11ty/eleventy # The build script the action should run prior to deploying.
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.1
+        with:
+          publish-dir: "./_site"
           production-branch: production
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
           enable-pull-request-comment: false
           enable-commit-comment: true
           overwrites-pull-request-comment: true
-       env:
+        env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-       timeout-minutes: 1
+        timeout-minutes: 1
