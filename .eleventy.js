@@ -14,4 +14,14 @@ module.exports = function(eleventyConfig) {
       css: myCssManager
     }
   });
+
+  return {
+    // These are all optional, defaults are shown:
+    dir: {
+      input: "sitecore",
+      includes: "_includes",
+      data: "_data",
+      output: "_site"
+    }
+  };
 };
