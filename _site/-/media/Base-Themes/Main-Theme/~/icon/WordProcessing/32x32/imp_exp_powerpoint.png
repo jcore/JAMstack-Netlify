@@ -1,0 +1,829 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<link href="/-/media/Feature/Experience-Accelerator/Bootstrap/Bootstrap/Styles/optimized-min.css?t=20210327T020827Z" rel="stylesheet" /><link href="/-/media/Base-Themes/Core-Libraries/styles/optimized-min.css?t=20210327T020831Z" rel="stylesheet" /><link href="/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?t=20210327T020834Z" rel="stylesheet" /><link href="/-/media/Themes/Demo-SXA-Sites/Lighthouse/styles/pre-optimized-min.css?t=20200313T172802Z" rel="stylesheet" />    
+<meta name="VIcurrentDateTime" content="637533164780174705" />
+<meta name="VirtualFolder" content="/" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+
+
+    <title>Error 404</title>
+
+
+
+
+
+
+
+<meta property="og:title"  content="Error 404" /><meta property="og:url"  content="https://cm.lighthouse.localhost/error" />
+
+
+
+
+
+<meta property="twitter:title"  content="Error 404" /><meta property="twitter:card"  content="summary_large_image" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.4.1.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.tracking.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.conditions.js"></script>
+</head>
+<body class="default-device bodyclass">
+    
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="">
+            <div class="row">
+                
+
+
+
+<div class="component container top-nav">
+    <div class="component-content" >
+
+
+<div class="component coveo-expandable-searchbox normal-mode hide-coveo">
+	<div class="component-content-open">
+		<label class="demo-search-toggle">
+			<span class="demo-search-label demo-sxasearch-label">SXA Search</span>
+			<span class="demo-search-switch">
+				<input class="demo-search-toggler" type="checkbox">
+				<span class="demo-search-slider"></span>
+			</span>
+			<span class="demo-search-label demo-coveosearch-label">Coveo Search</span>
+		</label>
+		<div class="search-placeholder sxa-search-placeholder">
+			
+<div class="component search-box vertical" data-properties='{"endpoint":"//sxa/search/results/","suggestionEndpoint":"//sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"/search","targetSignature":"","v":"{F57A7E7F-4E9A-4DD7-8793-EC45DC16D624}","s":"{4B7D7655-0E79-4CDE-B966-88FEC5ED009F}","p":5,"l":"en","languageSource":"CurrentLanguage","searchResultsSignature":"sitesearch","itemid":"{1D7CF3BF-B919-49F9-B47B-6F37BFCF1FC9}","minSuggestionsTriggerCharacterCount":2}'>
+    <div class="component-content">
+        
+                <input type="text" class="search-box-input" autocomplete="off" name="textBoxSearch" maxlength="100" placeholder="Search here..." />
+                    <button class="search-box-button-with-redirect" type="submit">
+                        Search
+                    </button>
+    </div>
+</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+<div class="component link hidden-xs">
+	<div class="component-content">
+
+<div class="field-link"><a href="/company/contact" data-variantitemid="{C4BDA9B1-5FBB-4364-BDBD-39657F5B89C2}" data-variantfieldname="Link">Contact</a></div>	</div>
+</div>
+
+
+
+<div class="component link hidden-xs">
+	<div class="component-content">
+
+<div class="field-link"><a href="/resources" data-variantitemid="{04F1117E-2A82-4D51-876F-5CDC4F13A509}" data-variantfieldname="Link">Resources</a></div>	</div>
+</div>
+
+
+
+<div class="component link hidden-xs">
+	<div class="component-content">
+
+<div class="field-link"><a href="/services" data-variantitemid="{BDD1FDE9-0B56-4ECE-A556-B043EBE11B51}" data-variantfieldname="Link">Services</a></div>	</div>
+</div>
+
+
+
+<div class="component link hidden-xs">
+	<div class="component-content">
+
+<div class="field-link"><a href="/company/locations" data-variantitemid="{59CC6969-0627-4BF8-9016-A8403FBB8F9F}" data-variantfieldname="Link">Locations</a></div>	</div>
+</div>
+
+
+
+<div class="component link">
+	<div class="component-content">
+
+<div class="field-link"><a href="/account" data-variantitemid="{87D70FED-3FB3-4662-BA2E-C5397C88CAD0}" data-variantfieldname="Link">Login</a></div>	</div>
+</div>
+
+<div class="component language-selector">
+    <div class="component-content">
+        <div class="language-selector-select-item"  data-language-code="en" data-country-code="us">
+            <a class="language-selector-select-link">
+                English
+            </a>
+        </div>
+            <ul class="language-selector-item-container">
+                    <li class="language-selector-item is-active" data-language-code="en" data-country-code="us">
+                        <a href="/en/error">
+                            English
+                        </a>
+                    </li>
+                    <li class="language-selector-item" data-language-code="fr" data-country-code="ca">
+                        <a href="/fr-CA/error">
+                            fran&#231;ais (Canada)
+                        </a>
+                    </li>
+                    <li class="language-selector-item" data-language-code="ja" data-country-code="jp">
+                        <a href="/ja-JP/error">
+                            日本語 (日本)
+                        </a>
+                    </li>
+            </ul>
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="component container mobile-header">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter">
+        <div class="col-xs-6">
+            
+<div class="component image logo col-xs-12">
+    <div class="component-content">
+<div><div class="logo-container">
+  <ul>
+    <li>
+      <div class="logo-holder logo">
+        <a href="/">
+          <h3> <span>LIGHT</span>HOUSE</h3><p>LIFESTYLE</p>
+        </a>
+      </div>
+    </li>
+  </ul>
+</div></div>    </div>
+</div>
+
+        </div>
+        <div class="col-xs-6">
+            <div class="component plain-html">
+    <div class="component-content">
+<i class="menu-icon"></i>    </div>
+</div>
+        </div>
+</div>    <div class="component navigation navigation-title col-xs-12 navigation-mobile">
+        <div class="component-content">
+            <nav>
+<ul class="clearfix">
+        <li class=" level1 item0 odd first rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="Your Health" href="/your-health">Your Health</a></div>
+        </li>
+        <li class=" level1 submenu item1 even rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="On the Go" href="/on-the-go">On the Go</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Healthy Eating" href="/on-the-go/healthy-eating">Healthy Eating</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Fitness Trackers" href="/on-the-go/fitness-trackers">Fitness Trackers</a></div>
+        </li>
+        <li class=" level2 item2 odd last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Travel Gear" href="/on-the-go/travel-gear">Travel Gear</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="At Home" href="/at-home">At Home</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Healthy Eating" href="/at-home/healthy-eating">Healthy Eating</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Virtual Fitness Workouts" href="/at-home/virtual-fitness-workouts">Virtual Fitness Workouts</a></div>
+        </li>
+        <li class=" level2 item2 odd last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Sleep Technology" href="/at-home/sleep-technology">Sleep Technology</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item3 even rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="At Work" href="/at-work">At Work</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Corporate Wellness" href="/at-work/corporate-wellness">Corporate Wellness</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Work From Home" href="/at-work/work-from-home">Work From Home</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item4 odd last rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="Articles" href="/articles">Articles</a></div>
+        </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+
+
+
+<div class="component container">
+    <div class="component-content" >
+    </div>
+</div>    </div>
+</div>
+
+
+<div class="component container header-container-outer">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter">
+        <div class="col-sm-12 col-md-2">
+            
+<div class="component image logo col-xs-12">
+    <div class="component-content">
+<div><div class="logo-container">
+  <ul>
+    <li>
+      <div class="logo-holder logo">
+        <a href="/">
+          <h3> <span>LIGHT</span>HOUSE</h3><p>LIFESTYLE</p>
+        </a>
+      </div>
+    </li>
+  </ul>
+</div></div>    </div>
+</div>
+
+        </div>
+        <div class="col-sm-12 col-md-10 primary-nav">
+            
+
+
+<div class="component container primary-nav-container">
+    <div class="component-content" >
+    <div class="component navigation navigation-title col-xs-12 navigation-main navigation-main-vertical">
+        <div class="component-content">
+            <nav>
+<ul class="clearfix">
+        <li class=" level1 item0 odd first rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="Your Health" href="/your-health">Your Health</a></div>
+        </li>
+        <li class=" level1 submenu item1 even rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="On the Go" href="/on-the-go">On the Go</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Healthy Eating" href="/on-the-go/healthy-eating">Healthy Eating</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Fitness Trackers" href="/on-the-go/fitness-trackers">Fitness Trackers</a></div>
+        </li>
+        <li class=" level2 item2 odd last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Travel Gear" href="/on-the-go/travel-gear">Travel Gear</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="At Home" href="/at-home">At Home</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Healthy Eating" href="/at-home/healthy-eating">Healthy Eating</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Virtual Fitness Workouts" href="/at-home/virtual-fitness-workouts">Virtual Fitness Workouts</a></div>
+        </li>
+        <li class=" level2 item2 odd last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Sleep Technology" href="/at-home/sleep-technology">Sleep Technology</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item3 even rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="At Work" href="/at-work">At Work</a></div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Corporate Wellness" href="/at-work/corporate-wellness">Corporate Wellness</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2">
+<div class="navigation-title field-navigationtitle"><a title="Work From Home" href="/at-work/work-from-home">Work From Home</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item4 odd last rel-level1">
+<div class="navigation-title field-navigationtitle"><a title="Articles" href="/articles">Articles</a></div>
+        </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+    </div>
+</div>
+        </div>
+</div>    </div>
+</div>
+            </div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="">
+            <div class="row">
+                
+
+
+
+<div class="component container col-sm-12">
+    <div class="component-content" >
+
+<div class="component title col-xs-12 indent">
+    <div class="component-content">
+<h2 class="field-title">Error 404</h2>    </div>
+</div>
+<div class="component content col-xs-12 indent">
+    <div class="component-content">
+<div class="field-content"><p>Oops! You have found an unreachable URL on the website.</p>
+<p>Continue with your demo and pretend like you were never here.</p>
+<p>&nbsp;</p></div>    </div>
+</div>
+    </div>
+</div>
+<div class="off-canvas-sidebar off-canvas-sidebar-right" id="sidebar">
+    <div class="btn-group-vertical hover" role="group">
+        <button type="button" class="btn btn-info sidebar-closed" data-toggle="sidebar" title="Open visit details panel" data-side="right">
+            <i class="fa fa-info-circle" aria-hidden="true"></i>
+        </button>
+        <button type="button" class="btn btn-info sidebar-opened" style="display: none" data-toggle="sidebar" title="Close visit details panel" data-side="right">
+            <i class="fa fa-times" aria-hidden="true"></i>
+            <span class="hover-only">Close</span>
+        </button>
+        <button href="#" style="display: none" class="btn btn-success refresh-sidebar sidebar-opened" title="Refresh visit details panel">
+            <i class="fa fa-refresh" aria-hidden="true"></i>
+            <span class="hover-only">Refresh</span>
+        </button>
+        <button href="#" class="btn new-contact sidebar-opened" style="display: none" title="Start fresh as a new visitor. This will clear all analytics and session cookies.">
+            <i class="fa fa-user" aria-hidden="true"></i>
+            <span class="hover-only">New Visitor</span>
+        </button>
+        <button href="#" class="btn btn-danger end-visit sidebar-opened" style="display: none" title="End the current visit and submit it to the Sitecore Experience Database">
+            <i class="fa fa-file" aria-hidden="true"></i>
+			<span class="hover-only">New Visit</span>
+        </button>
+    </div>
+
+    <div class="sidebar sidebar-fixed-right">
+<div class="panel-group" id="experiencedata">
+    <div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            <a type="button" href="#visitsPanel" class="panel-title" data-parent="#experiencedata">
+                <span class="fa fa-heart"></span>
+                Engagement
+                <span class="badge" title="Engagement value:" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-heart"></span>
+                    0
+                </span>
+                <span class="badge" title="Pages Viewed" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-eye"></span>
+                    1
+                </span>
+                <span class="badge" title="Number of Visits" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-history"></span>
+                    1
+                </span>
+                <i class="fa fa-chevron-down pull-right" aria-hidden="true"></i>
+            </a>
+        </h3>
+    </div>
+    <div id="visitsPanel" class="panel-collapse" >
+        <div class="panel-body">
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-heart"></span>
+                </div>
+
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Engagement value:
+                        <strong class="pull-right">0</strong>
+                    </h4>
+                </div>
+            </div>
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-eye"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Pages seen in this visit:
+                        <strong class="pull-right">1</strong>
+                    </h4>
+                </div>
+            </div>
+            <table class="table table-condensed table-borderless">
+                    <tr>
+                        <td class="text-muted text-nowrap">
+                                                                                        <span class="fa fa-street-view" title="Page has personalisation"></span>
+                        </td>
+                        <td class="text-nowrap" title="error">error</td>
+                        <td>
+                                <span>-</span>
+                        </td>
+                    </tr>
+            </table>
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-history"></span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-title">
+                        Visits to the site:
+                    </h4>
+                        <div class="alert alert-info small">
+                            This is your first visit to the site.
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            <a role="button" href="#personalInfoPanel" class="panel-title" data-parent="#experiencedata">
+                <span class="fa fa-user"></span>
+                Personal Information
+                <i class="fa fa-chevron-down pull-right" aria-hidden="true"></i>
+            </a>
+        </h3>
+    </div>
+    <div id="personalInfoPanel" class="panel-collapse">
+        <div class="panel-body">
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-user"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+You are anonymous                    </h4>
+                    <dl class="small">
+                    </dl>
+                </div>
+            </div>
+                            <div class="media">
+                    <div class="media-left">
+                        <span class="fa fa-tablet"></span>
+                    </div>
+                    <div class="media-body ">
+                        <h4 class="media-title">
+                            Device
+                        </h4>
+                        <div>
+                            <dl>
+                                <dt>Device</dt>
+                                <dd>Unknown, Desktop, Emulator</dd>
+                                <dt>Browser</dt>
+                                <dd>Unknown Android App</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div><div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4 class="panel-title">
+            <a role="button" href="#onsiteBehaviorPanel" class="panel-title" data-parent="#experiencedata">
+                <span class="fa fa-bullseye"></span>
+                Onsite Behavior            
+                <i class="fa fa-chevron-down pull-right" aria-hidden="true"></i>
+            </a>
+        </h4>
+    </div>
+    <div id="onsiteBehaviorPanel" class="panel-collapse">
+        <div class="panel-body">
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-users"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Profiling
+                    </h4>
+                    <div class="media-body">
+                            <div class="alert alert-info small">
+                                You have not been profiled yet
+                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-trophy"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Triggered goals
+                    </h4>
+                    <div class="media-body">
+                        <ul class="nav nav-tabs nav-justified small">
+                            <li class="active">
+                                <a href="#onSiteBehaviorGoals" data-toggle="tab">Goals</a>
+                            </li>
+                            <li>
+                                <a href="#onSiteBehaviorPageEvents" data-toggle="tab">Page Events</a>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="onSiteBehaviorGoals">
+                                    <div class="alert alert-info small">
+                                        You have triggered no goals so far
+                                    </div>
+                            </div>
+                            <div class="tab-pane" id="onSiteBehaviorPageEvents">
+                                    <div class="table-responsive">
+                                        <table class="table table-condensed table-striped">
+                                            <tr>
+                                                <th>
+                                                    <small>
+                                                        Elapsed
+                                                    </small>
+                                                </th>
+                                                <th class="text-nowrap">
+                                                    <small>
+                                                        Name
+                                                    </small>
+                                                </th>
+                                            </tr>
+                                                <tr>
+                                                    <td>
+                                                        <small>59m 53s</small>
+                                                    </td>
+                                                    <td class="text-nowrap">
+                                                        Page not found
+                                                    </td>
+                                                </tr>
+                                        </table>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-money"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Outcomes
+                    </h4>
+                        <div class="alert alert-info small">
+                            You have reached no outcomes
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4 class="panel-title">
+            <a role="button" href="#referralPanel" class="panel-title" data-parent="#experiencedata">
+                <span class="fa fa-bullhorn"></span>
+                Referral
+                <i class="fa fa-chevron-down pull-right" aria-hidden="true"></i>
+            </a>
+        </h4>
+    </div>
+    <div id="referralPanel" class="panel-collapse">
+        <div class="panel-body">
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-sign-in"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Referrer
+                    </h4>
+                        <div class="text-nowrap" title="Direct traffic">
+                            Direct traffic
+                        </div>
+                </div>
+            </div>
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-bullhorn"></span>
+                </div>
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        Campaigns
+                    </h4>
+                        <div class="alert alert-info small">
+                            You have not been associated with any campaigns
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="">
+            <div class="row">
+                
+
+
+
+<div class="component container col-sm-12">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter">
+        <div class="col-md-7">
+            
+
+
+<div class="component carousel col-sm-12 footer-carousel indent-bottom" data-properties='{&quot;timeout&quot;:2147483647,&quot;isPauseEnabled&quot;:false,&quot;transition&quot;:&quot;SlideHorizontallyTransition&quot;}'>
+    <div class="component-content">
+            <div data-id="divCarousel_3d4c5279-3a41-4124-aa95-1bb9fa0ee4da" class="carousel-inner">
+                <div class="background">
+                </div>
+                <ul class="slides">
+                        <li class="slide"  >
+
+<div class="component content col-xs-12">
+    <div class="component-content">
+<div class="field-slideimage"><img src="/-/media/Project/Demo-Shared-SXA-Sites/LighthouseLifestyle/Images/Carousels/footer-carousel-2.jpg?h=479&amp;iar=0&amp;w=1500&amp;hash=55EA6B5B2640E5F60E536E1B45FEC479" alt="Fitness trackers on multiple people" width="1500" height="479" data-variantitemid="{1E60402B-10A0-4719-A47B-5961C240A3FE}" data-variantfieldname="SlideImage" /></div><div class="slide-info"><div class="field-slidetext">Your Health <br />Lighthouse Lifestyle</div><div class="field-slidelink"><a href="/your-health" data-variantitemid="{1E60402B-10A0-4719-A47B-5961C240A3FE}" data-variantfieldname="SlideLink">See More</a></div></div>    </div>
+</div>
+                        </li>
+                        <li class="slide" style="display: none">
+
+<div class="component content col-xs-12">
+    <div class="component-content">
+<div class="field-slideimage"><img src="/-/media/Project/Demo-Shared-SXA-Sites/LighthouseLifestyle/Images/Carousels/footer-carousel-1.jpg?h=479&amp;iar=0&amp;w=1500&amp;hash=7A92DC4367BAF80298CE5575971AEF4B" alt="Woman drinking juice outside" width="1500" height="479" data-variantitemid="{3B5D36A6-095E-4EFD-BEEB-B671F16DA03B}" data-variantfieldname="SlideImage" /></div><div class="slide-info"><div class="field-slidetext">Your Way<br />
+Lighthouse Lifestyle</div><div class="field-slidelink"><a href="/your-health" data-variantitemid="{3B5D36A6-095E-4EFD-BEEB-B671F16DA03B}" data-variantfieldname="SlideLink">See More</a></div></div>    </div>
+</div>
+                        </li>
+                </ul>
+
+
+                    <div class="nav">
+                            <a class="prev-text" href="#"></a>
+                                                                            <a class="next-text" href="#"></a>
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-3 col-md-2">
+            
+
+
+<div class="component container col-sm-12 footer-links-container">
+    <div class="component-content" >
+
+<div class="component link-list col-sm-12 footer-links-block">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/articles" data-variantitemid="{B2AC7183-AEA2-4E41-9CBD-780AF231C314}" data-variantfieldname="Link">Articles</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/company" data-variantitemid="{974E6D6D-1992-4BB5-AA05-3BA3C2B302FA}" data-variantfieldname="Link">Company</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/company/locations" data-variantitemid="{7FDD1927-4EEB-4205-B9BA-424ECC270C92}" data-variantfieldname="Link">Locations</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/services" data-variantitemid="{275BDA4B-C4D8-4458-90A6-97EDB49D9ABA}" data-variantfieldname="Link">Services</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/company/contact" data-variantitemid="{65B5E116-C1E3-4867-A3BD-8CCD22582533}" data-variantfieldname="Link">Contact</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/landing-pages" data-variantitemid="{1A0F6A87-EC75-4027-93F4-75D0A3296CAB}" data-variantfieldname="Link">Landing Pages</a></div>                </li>
+                <li class="item6 odd last">
+<div class="field-link"><a href="/campaign-pages" data-variantitemid="{B523E8C8-FDFA-4FA7-9A08-17F37A6D9D82}" data-variantfieldname="Link">Campaign Pages</a></div>                </li>
+        </ul>
+    </div>
+</div>
+    </div>
+</div>
+        </div>
+        <div class="col-sm-9 col-md-3">
+            
+
+<div class="component coveo-expandable-searchbox normal-mode hide-coveo">
+	<div class="component-content-open">
+		<label class="demo-search-toggle">
+			<span class="demo-search-label demo-sxasearch-label">SXA Search</span>
+			<span class="demo-search-switch">
+				<input class="demo-search-toggler" type="checkbox">
+				<span class="demo-search-slider"></span>
+			</span>
+			<span class="demo-search-label demo-coveosearch-label">Coveo Search</span>
+		</label>
+		<div class="search-placeholder sxa-search-placeholder">
+			
+<div class="component search-box horizontal col-sm-12" data-properties='{"endpoint":"//sxa/search/results/","suggestionEndpoint":"//sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"/search","targetSignature":"","v":"{53F517F7-BD2E-49FA-9ECF-317B16967EB3}","s":"{4B7D7655-0E79-4CDE-B966-88FEC5ED009F}","p":5,"l":"en","languageSource":"CurrentLanguage","searchResultsSignature":"sitesearch","itemid":"{1D7CF3BF-B919-49F9-B47B-6F37BFCF1FC9}","minSuggestionsTriggerCharacterCount":2}'>
+    <div class="component-content">
+        
+                    <label for="textBoxSearch">
+                        Search textbox label
+                    </label>
+                <input type="text" class="search-box-input" autocomplete="off" name="textBoxSearch" maxlength="100" placeholder="Search here..." />
+                    <button class="search-box-button-with-redirect" type="submit">
+                        Search
+                    </button>
+    </div>
+</div>
+
+		</div>
+	</div>
+</div>
+<div class="component link-list col-sm-12 social-link-list">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="http://facebook.com" rel="noopener noreferrer" data-variantitemid="{17F7F094-2BA1-47B7-9962-BEB85AAE6CB1}" data-variantfieldname="Link" class="social-links-facebook" target="_blank">Facebook</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="http://linkedin.com" rel="noopener noreferrer" data-variantitemid="{F72006C7-239A-403F-9FE1-38C2419E6757}" data-variantfieldname="Link" class="social-links-linkedin" target="_blank">LinkedIn</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="http://twitter.com" rel="noopener noreferrer" data-variantitemid="{B3BC3611-B0EF-443B-AFE9-9E593051EFFA}" data-variantfieldname="Link" class="social-links-twitter" target="_blank">Twitter</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a href="http://youtube.com" rel="noopener noreferrer" data-variantitemid="{7E462ADA-1593-4956-8613-D1EABE37C01E}" data-variantfieldname="Link" class="social-links-youtube" target="_blank">Youtube</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+</div>    </div>
+</div>
+
+
+<div class="component container footer-legal-container">
+    <div class="component-content" >
+
+
+
+<div class="component container col-sm-12">
+    <div class="component-content" >
+
+
+    <div class="component rich-text col-sm-12 copyrights">
+        <div class="component-content">
+<p>Copyright © 2021 Sitecore | <a href="/company/privacy-policy">Legal Notice</a>&nbsp;| <a href="/company/privacy-policy">Privacy</a></p>
+<p>Sitecore Demo as used here is for demonstration purposes only and to represent the software and services provided by Sitecore further described at www.sitecore.com.</p>        </div>
+    </div>
+    </div>
+</div>    </div>
+</div>
+            </div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+
+    <div class="privacy-warning permisive" style="">
+            <div class='close'>
+
+                <a onclick="XA.cookies.removeCookieWarning();">X</a>
+            </div>
+        <div class="info">
+            Cookies help us improve your website experience.<br>
+By using our website, you agree to our use of cookies.
+        </div>
+        <div class="submit">
+
+            <a onclick="XA.cookies.createCookie(&#39;privacy-notification&#39;, 1, 365);XA.cookies.removeCookieWarning();">Confirm</a>
+        </div>
+    </div>
+
+<script src="/-/media/Base-Themes/Core-Libraries/scripts/optimized-min.js?t=20210327T020829Z"></script><script src="/-/media/Base-Themes/XA-API/Scripts/optimized-min.js?t=20210327T020832Z"></script><script src="/-/media/Base-Themes/Main-Theme/scripts/optimized-min.js?t=20210327T020833Z"></script><script src="/-/media/Base-Themes/Google-Maps-JS-Connector/Scripts/optimized-min.js?t=20210327T020836Z"></script><script src="/-/media/Base-Themes/Maps/Scripts/optimized-min.js?t=20210327T020837Z"></script><script src="/-/media/Base-Themes/SearchTheme/Scripts/optimized-min.js?t=20210327T020838Z"></script><script src="/-/media/Base-Themes/Components-Theme/Scripts/optimized-min.js?t=20210327T020839Z"></script><script src="/-/media/Base-Themes/Resolve-Conflicts/Scripts/optimized-min.js?t=20210327T020840Z"></script><script src="/-/media/Themes/Demo-SXA-Sites/Lighthouse/scripts/pre-optimized-min.js?t=20200313T183131Z"></script>    <!-- /#wrapper -->
+</body>
+</html>
